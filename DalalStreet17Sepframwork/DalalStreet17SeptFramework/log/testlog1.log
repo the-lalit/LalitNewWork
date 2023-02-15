@@ -1,0 +1,48 @@
+2023-02-02 20:06:30,949 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2023-02-02 20:06:40,062 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2023-02-02 20:06:40,121 [main] INFO DalalStreet Automation Framework - Object Creation
+2023-02-02 20:06:45,784 [main] INFO DalalStreet Automation Framework - Login the application
+2023-02-02 20:06:45,807 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2023-02-02 20:07:38,949 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2023-02-02 20:07:50,086 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2023-02-02 20:07:50,232 [main] INFO DalalStreet Automation Framework - Object Creation
+2023-02-02 20:07:55,774 [main] INFO DalalStreet Automation Framework - Login the application
+2023-02-02 20:07:55,779 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2023-02-02 20:08:00,797 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2023-02-02 20:08:08,563 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2023-02-02 20:08:08,568 [main] INFO DalalStreet Automation Framework - Object Creation
+2023-02-02 20:08:14,359 [main] INFO DalalStreet Automation Framework - Login the application
+2023-02-02 20:08:14,360 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLogoutFunctionality
+2023-02-02 20:08:15,044 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLogoutFunctionality
+2023-02-02 20:08:25,334 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2023-02-02 20:08:25,336 [main] INFO DalalStreet Automation Framework - Object Creation
+2023-02-02 20:08:31,071 [main] INFO DalalStreet Automation Framework - Login the application
+2023-02-02 20:08:31,074 [main] INFO DalalStreet Automation Framework - Test case execution started - getDataFromTransactionPage
+2023-02-02 20:08:32,949 [main] INFO DalalStreet Automation Framework - Test case execution completed - getDataFromTransactionPage
+2023-02-08 21:02:45,392 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2023-02-08 21:03:01,865 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2023-02-08 21:03:01,940 [main] INFO DalalStreet Automation Framework - Object Creation
+2023-02-08 21:03:09,194 [main] INFO DalalStreet Automation Framework - Login the application
+2023-02-08 21:03:09,202 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2023-02-08 21:03:31,080 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2023-02-08 21:03:41,626 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2023-02-08 21:03:41,692 [main] INFO DalalStreet Automation Framework - Object Creation
+2023-02-08 21:03:48,708 [main] INFO DalalStreet Automation Framework - Login the application
+2023-02-08 21:03:48,714 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2023-02-08 21:03:53,745 [main] INFO DalalStreet Automation Framework - Test case execution failed - verifyLoginWithCorrectCred
+2023-02-08 21:03:53,884 [main] INFO DalalStreet Automation Framework - Take Screenshot
+2023-02-08 21:04:23,608 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2023-02-08 21:04:35,710 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2023-02-08 21:04:35,777 [main] INFO DalalStreet Automation Framework - Object Creation
+2023-02-08 21:04:42,741 [main] INFO DalalStreet Automation Framework - Login the application
+2023-02-08 21:04:42,748 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2023-02-08 21:04:47,769 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2023-02-08 21:07:49,091 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2023-02-08 21:08:00,165 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2023-02-08 21:08:00,211 [main] INFO DalalStreet Automation Framework - Object Creation
+2023-02-08 21:08:00,212 [main] INFO DalalStreet Automation Framework - Login the application
+2023-02-08 21:08:00,226 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2023-02-08 21:08:07,421 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2023-02-08 21:08:07,425 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2023-02-08 21:09:07,951 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2023-02-08 21:09:08,005 [main] INFO DalalStreet Automation Framework - Framework execution stopped
